@@ -1,4 +1,4 @@
-# FUTURE_CS_01 – Web Application Security Testing (OWASP ZAP)
+# Web Application Security Testing (OWASP ZAP)
 
 ## 👤 Intern Details
 - Name: Aditya Mehta
