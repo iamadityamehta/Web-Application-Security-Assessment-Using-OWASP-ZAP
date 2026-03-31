@@ -1,4 +1,4 @@
-# Cyber Security Task 01 – Overview
+# Overview
 
 ## Objective
 The objective of this task is to understand the fundamentals of Cyber Security and become familiar with core concepts, threats, and defensive practices.
